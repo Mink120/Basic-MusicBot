@@ -29,8 +29,5 @@ A powerful and easy-to-use Discord music bot with support for YouTube, Spotify, 
 
 6. Start the bot  
    ``node index.js``
-
-## License
-
-This project is licensed under the GPL-3.0 License  
-[View License](https://github.com/Mink120/Basic-MusicBot/blob/main/LICENSE)
+## WARNING!
+make sure you add credit
