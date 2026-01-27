@@ -1,4 +1,4 @@
-# MusicBot
+# MusicBot by @headdied.
 
 A powerful and easy-to-use Discord music bot with support for YouTube, Spotify, SoundCloud, and more. Fully customizable and self-hosted.
 
