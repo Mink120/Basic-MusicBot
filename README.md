@@ -30,4 +30,4 @@ A powerful and easy-to-use Discord music bot with support for YouTube, Spotify, 
 6. Start the bot  
    ``node index.js``
 ## WARNING!
-make sure you add credit
+Make sure you add credit
