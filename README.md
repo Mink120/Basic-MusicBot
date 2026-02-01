@@ -15,7 +15,7 @@ A powerful and easy-to-use Discord music bot with support for YouTube, Spotify, 
    ``git clone https://github.com/Mink120/Basic-MusicBot.git``
 
 2. Navigate into the project directory  
-   ``cd MusicBot``
+   ``cd Basic-MusicBot``
 
 3. Install dependencies  
    ``npm install``
