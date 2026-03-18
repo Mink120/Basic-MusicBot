@@ -3,7 +3,7 @@ module.exports = {
   token: process.env.DISCORD_TOKEN,
   prefix: "!",
   enablePrefix: true,
-  supportServer: "https://discord.gg/9uzXNRDEjw",
+  supportServer: "https://discord.gg/7UQ3MdxSqJ",
 
   activity: {
     name: "music",
@@ -56,9 +56,9 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "lavalink.jirayu.net",
-        port: 13592,
-        password: "youshallnotpass",
+        host: "You lava link",
+        port: You port,
+        password: "You lava link pass",
         secure: false
       }
     ]
